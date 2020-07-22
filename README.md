@@ -12,7 +12,7 @@ This project cooperates with MobileInsight[3].
 3) Run mobileinsight with PERCEIVE plugin
 
 ## Build
-1) git clone https://github.com/lovgrammer/PerceiveAndroid.git
+1) git clone https://github.com/cu-pscr/perceive
 2) import project to your Android Studio
 3) build
 
